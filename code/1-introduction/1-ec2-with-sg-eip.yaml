@@ -1,6 +1,6 @@
 
 Resources:
-  MyInstance:
+  MytestInstance:
     Type: AWS::EC2::Instance
     Properties:
       AvailabilityZone: us-east-1a
